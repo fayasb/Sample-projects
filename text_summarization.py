@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+"""
+author: fayasbacker@gmail.com
+"""
 
 import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
