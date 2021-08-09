@@ -71,7 +71,3 @@ def text_process(text):
     summary = ' '.join(final_summary)
 
     return summary
-
-
-if __name__=="__main__":
-    print(text_process(text))
